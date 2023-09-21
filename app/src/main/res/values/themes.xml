@@ -1,0 +1,19 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.CRUD_Task_5" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+<!--        <item name="colorPrimary">@color/yellow</item>-->
+<!--        <item name="colorPrimaryVariant">@color/yellow</item>-->
+<!--        <item name="colorOnPrimary">@color/yellow</item>-->
+<!--        <item name="android:statusBarColor">?attr/colorPrimaryVariant</item>-->
+    </style>
+
+    <style name="Theme.CRUD_Task_5" parent="Base.Theme.CRUD_Task_5" />
+
+<!--    <style name="Theme.App.SplashScreen" parent="Theme.SplashScreen">-->
+<!--        <item name="windowSplashScreenBackground">@color/yellow</item>-->
+<!--        <item name="windowSplashScreenAnimatedIcon">@drawable/best_men</item>-->
+<!--        <item name="postSplashScreenTheme">@style/Base.Theme.CRUD_Task_5</item>-->
+<!--    </style>-->
+</resources>
